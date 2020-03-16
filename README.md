@@ -1,4 +1,4 @@
-![project tag](/tag1.svg)
+!(imgs/tags/tag1.svg)
 
 # Tentative (Not Certain How This Will Work) White Paper
 
