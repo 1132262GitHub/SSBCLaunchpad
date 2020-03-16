@@ -1,5 +1,3 @@
-!(imgs/tags/tag1.svg)
-
 # Tentative (Not Certain How This Will Work) White Paper
 
 Launchpad is a program that helps content creators on Scratch gain momentum and attract attention to their projects and before their release.
