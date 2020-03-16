@@ -5,7 +5,7 @@ Launchpad is a program that helps content creators on Scratch gain momentum and 
 
 
 ## Logos & Brand Identity
-![projectTag](/imgs/launchpadDraft-02.svg)
+![projectTag](/imgs/LaunchpadDraftThumbnail.svg)
 oof that's big
 
 ## Project Pages
